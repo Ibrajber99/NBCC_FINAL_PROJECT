@@ -1,0 +1,39 @@
+﻿  AsteroidsHolder.cpp
+C:\Users\jber5\OneDrive\Desktop\SpaceWars\SpaceWars\Asteroids.h(8,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\jber5\OneDrive\Desktop\SpaceWars\SpaceWars\AsteroidsHolder.cpp(34,45): warning C4244: 'argument': conversion from '_Ty2' to 'T', possible loss of data
+          with
+          [
+              _Ty2=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\jber5\OneDrive\Desktop\SpaceWars\SpaceWars\AsteroidsHolder.cpp(34,27): warning C4244: 'argument': conversion from '_Ty1' to 'T', possible loss of data
+          with
+          [
+              _Ty1=const int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\jber5\OneDrive\Desktop\SpaceWars\SpaceWars\AsteroidsHolder.cpp(36,45): warning C4244: 'argument': conversion from '_Ty2' to 'T', possible loss of data
+          with
+          [
+              _Ty2=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\jber5\OneDrive\Desktop\SpaceWars\SpaceWars\AsteroidsHolder.cpp(36,27): warning C4244: 'argument': conversion from '_Ty1' to 'T', possible loss of data
+          with
+          [
+              _Ty1=const int
+          ]
+          and
+          [
+              T=float
+          ]
+  SpaceWars.vcxproj -> C:\Users\jber5\OneDrive\Desktop\SpaceWars\Debug\SpaceWars.exe

@@ -1,0 +1,217 @@
+﻿  Animation.cpp
+C:\Users\jber5\OneDrive\NBCC\Second Year courses\C++_SFML_NBCC\SpaceWars\SpaceWars\Animation.cpp(23,48): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\jber5\OneDrive\NBCC\Second Year courses\C++_SFML_NBCC\SpaceWars\SpaceWars\Animation.cpp(24,49): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\jber5\OneDrive\NBCC\Second Year courses\C++_SFML_NBCC\SpaceWars\SpaceWars\Animation.cpp(66,44): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\jber5\OneDrive\NBCC\Second Year courses\C++_SFML_NBCC\SpaceWars\SpaceWars\Animation.cpp(67,45): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+  Asteroids.cpp
+C:\Users\jber5\OneDrive\NBCC\Second Year courses\C++_SFML_NBCC\SpaceWars\SpaceWars\Asteroids.h(8,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  AsteroidsHolder.cpp
+C:\Users\jber5\OneDrive\NBCC\Second Year courses\C++_SFML_NBCC\SpaceWars\SpaceWars\Asteroids.h(8,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\jber5\OneDrive\NBCC\Second Year courses\C++_SFML_NBCC\SpaceWars\SpaceWars\AsteroidsHolder.cpp(35,45): warning C4244: 'argument': conversion from '_Ty2' to 'T', possible loss of data
+          with
+          [
+              _Ty2=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\jber5\OneDrive\NBCC\Second Year courses\C++_SFML_NBCC\SpaceWars\SpaceWars\AsteroidsHolder.cpp(35,27): warning C4244: 'argument': conversion from '_Ty1' to 'T', possible loss of data
+          with
+          [
+              _Ty1=const int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\jber5\OneDrive\NBCC\Second Year courses\C++_SFML_NBCC\SpaceWars\SpaceWars\AsteroidsHolder.cpp(37,45): warning C4244: 'argument': conversion from '_Ty2' to 'T', possible loss of data
+          with
+          [
+              _Ty2=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\jber5\OneDrive\NBCC\Second Year courses\C++_SFML_NBCC\SpaceWars\SpaceWars\AsteroidsHolder.cpp(37,27): warning C4244: 'argument': conversion from '_Ty1' to 'T', possible loss of data
+          with
+          [
+              _Ty1=const int
+          ]
+          and
+          [
+              T=float
+          ]
+  BackgroundDynamics.cpp
+C:\Users\jber5\OneDrive\NBCC\Second Year courses\C++_SFML_NBCC\SpaceWars\SpaceWars\BackgroundDynamics.cpp(191,68): warning C4244: 'argument': conversion from 'T' to '_Ty', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              _Ty=float
+          ]
+C:\Users\jber5\OneDrive\NBCC\Second Year courses\C++_SFML_NBCC\SpaceWars\SpaceWars\BackgroundDynamics.cpp(157,71): warning C4244: 'argument': conversion from 'T' to '_Ty', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              _Ty=int
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\include\algorithm(299): message : see reference to function template instantiation 'auto BackgroundDynamics::initializePlanets::<lambda_5827efff47a81f31e928be05147cc4fa>::operator ()<sf::Sprite>(sf::Sprite &) const' being compiled
+C:\Users\jber5\OneDrive\NBCC\Second Year courses\C++_SFML_NBCC\SpaceWars\SpaceWars\BackgroundDynamics.cpp(162): message : see reference to function template instantiation '_Fn std::for_each<std::_Vector_iterator<std::_Vector_val<std::_Simple_types<_Ty>>>,BackgroundDynamics::initializePlanets::<lambda_5827efff47a81f31e928be05147cc4fa>>(_InIt,_InIt,_Fn)' being compiled
+          with
+          [
+              _Fn=BackgroundDynamics::initializePlanets::<lambda_5827efff47a81f31e928be05147cc4fa>,
+              _Ty=sf::Sprite,
+              _InIt=std::_Vector_iterator<std::_Vector_val<std::_Simple_types<sf::Sprite>>>
+          ]
+C:\Users\jber5\OneDrive\NBCC\Second Year courses\C++_SFML_NBCC\SpaceWars\SpaceWars\BackgroundDynamics.cpp(160,58): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jber5\OneDrive\NBCC\Second Year courses\C++_SFML_NBCC\SpaceWars\SpaceWars\BackgroundDynamics.cpp(160,44): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jber5\OneDrive\NBCC\Second Year courses\C++_SFML_NBCC\SpaceWars\SpaceWars\BackgroundDynamics.cpp(175,70): warning C4244: 'argument': conversion from 'T' to '_Ty', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              _Ty=float
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\include\algorithm(299): message : see reference to function template instantiation 'auto BackgroundDynamics::initializeClouds::<lambda_2a7126f16621569bc234e7cf842a4bb1>::operator ()<sf::Sprite>(sf::Sprite &) const' being compiled
+C:\Users\jber5\OneDrive\NBCC\Second Year courses\C++_SFML_NBCC\SpaceWars\SpaceWars\BackgroundDynamics.cpp(183): message : see reference to function template instantiation '_Fn std::for_each<std::_Vector_iterator<std::_Vector_val<std::_Simple_types<_Ty>>>,BackgroundDynamics::initializeClouds::<lambda_2a7126f16621569bc234e7cf842a4bb1>>(_InIt,_InIt,_Fn)' being compiled
+          with
+          [
+              _Fn=BackgroundDynamics::initializeClouds::<lambda_2a7126f16621569bc234e7cf842a4bb1>,
+              _Ty=sf::Sprite,
+              _InIt=std::_Vector_iterator<std::_Vector_val<std::_Simple_types<sf::Sprite>>>
+          ]
+  EnemyShipsHolder.cpp
+C:\Users\jber5\OneDrive\NBCC\Second Year courses\C++_SFML_NBCC\SpaceWars\SpaceWars\EnemyShipsHolder.cpp(67,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\jber5\OneDrive\NBCC\Second Year courses\C++_SFML_NBCC\SpaceWars\SpaceWars\EnemyShipsHolder.cpp(67,39): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  PlayerBullets.cpp
+  CollisionManager.cpp
+C:\Users\jber5\OneDrive\NBCC\Second Year courses\C++_SFML_NBCC\SpaceWars\SpaceWars\Asteroids.h(8,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Enemyships.cpp
+  EnemySpaceShip.cpp
+C:\Users\jber5\OneDrive\NBCC\Second Year courses\C++_SFML_NBCC\SpaceWars\SpaceWars\EnemySpaceShip.cpp(324,16): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\jber5\OneDrive\NBCC\Second Year courses\C++_SFML_NBCC\SpaceWars\SpaceWars\EnemySpaceShip.cpp(328,21): warning C4305: '+=': truncation from 'double' to 'float'
+  Game.cpp
+C:\Users\jber5\OneDrive\NBCC\Second Year courses\C++_SFML_NBCC\SpaceWars\SpaceWars\Asteroids.h(8,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\jber5\OneDrive\NBCC\Second Year courses\C++_SFML_NBCC\SpaceWars\SpaceWars\Game.cpp(203,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jber5\OneDrive\NBCC\Second Year courses\C++_SFML_NBCC\SpaceWars\SpaceWars\Game.cpp(259,85): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\jber5\OneDrive\NBCC\Second Year courses\C++_SFML_NBCC\SpaceWars\SpaceWars\Game.cpp(259,61): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\jber5\OneDrive\NBCC\Second Year courses\C++_SFML_NBCC\SpaceWars\SpaceWars\Game.cpp(273,33): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+  HealthPowerUp.cpp
+C:\Users\jber5\OneDrive\NBCC\Second Year courses\C++_SFML_NBCC\SpaceWars\SpaceWars\Asteroids.h(8,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\jber5\OneDrive\NBCC\Second Year courses\C++_SFML_NBCC\SpaceWars\SpaceWars\HealthPowerUp.cpp(41,61): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\jber5\OneDrive\NBCC\Second Year courses\C++_SFML_NBCC\SpaceWars\SpaceWars\HealthPowerUp.cpp(41,54): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\jber5\OneDrive\NBCC\Second Year courses\C++_SFML_NBCC\SpaceWars\SpaceWars\HealthPowerUp.cpp(41,47): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\jber5\OneDrive\NBCC\Second Year courses\C++_SFML_NBCC\SpaceWars\SpaceWars\HealthPowerUp.cpp(41,40): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  LargeAsteroid.cpp
+C:\Users\jber5\OneDrive\NBCC\Second Year courses\C++_SFML_NBCC\SpaceWars\SpaceWars\Asteroids.h(8,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  NukePowerUp.cpp
+C:\Users\jber5\OneDrive\NBCC\Second Year courses\C++_SFML_NBCC\SpaceWars\SpaceWars\Asteroids.h(8,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  OneHitKillPowerUp.cpp
+C:\Users\jber5\OneDrive\NBCC\Second Year courses\C++_SFML_NBCC\SpaceWars\SpaceWars\Asteroids.h(8,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\jber5\OneDrive\NBCC\Second Year courses\C++_SFML_NBCC\SpaceWars\SpaceWars\OneHitKillPowerUp.cpp(51,30): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  PowerUps.cpp
+C:\Users\jber5\OneDrive\NBCC\Second Year courses\C++_SFML_NBCC\SpaceWars\SpaceWars\Asteroids.h(8,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  PowerUpsHolder.cpp
+C:\Users\jber5\OneDrive\NBCC\Second Year courses\C++_SFML_NBCC\SpaceWars\SpaceWars\Asteroids.h(8,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  ProtectionShieldPowerUp.cpp
+C:\Users\jber5\OneDrive\NBCC\Second Year courses\C++_SFML_NBCC\SpaceWars\SpaceWars\Asteroids.h(8,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\jber5\OneDrive\NBCC\Second Year courses\C++_SFML_NBCC\SpaceWars\SpaceWars\ProtectionShieldPowerUp.cpp(45,61): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\jber5\OneDrive\NBCC\Second Year courses\C++_SFML_NBCC\SpaceWars\SpaceWars\ProtectionShieldPowerUp.cpp(45,54): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\jber5\OneDrive\NBCC\Second Year courses\C++_SFML_NBCC\SpaceWars\SpaceWars\ProtectionShieldPowerUp.cpp(45,47): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\jber5\OneDrive\NBCC\Second Year courses\C++_SFML_NBCC\SpaceWars\SpaceWars\ProtectionShieldPowerUp.cpp(45,40): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  RadarPowerUp.cpp
+C:\Users\jber5\OneDrive\NBCC\Second Year courses\C++_SFML_NBCC\SpaceWars\SpaceWars\Asteroids.h(8,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\jber5\OneDrive\NBCC\Second Year courses\C++_SFML_NBCC\SpaceWars\SpaceWars\RadarPowerUp.cpp(36,56): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\jber5\OneDrive\NBCC\Second Year courses\C++_SFML_NBCC\SpaceWars\SpaceWars\RadarPowerUp.cpp(36,50): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\jber5\OneDrive\NBCC\Second Year courses\C++_SFML_NBCC\SpaceWars\SpaceWars\RadarPowerUp.cpp(36,43): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\jber5\OneDrive\NBCC\Second Year courses\C++_SFML_NBCC\SpaceWars\SpaceWars\RadarPowerUp.cpp(36,37): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  Saucer.cpp
+C:\Users\jber5\OneDrive\NBCC\Second Year courses\C++_SFML_NBCC\SpaceWars\SpaceWars\Saucer.cpp(129,69): warning C4244: 'argument': conversion from 'float' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\jber5\OneDrive\NBCC\Second Year courses\C++_SFML_NBCC\SpaceWars\SpaceWars\Saucer.cpp(129,44): warning C4244: 'argument': conversion from 'float' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\jber5\OneDrive\NBCC\Second Year courses\C++_SFML_NBCC\SpaceWars\SpaceWars\Saucer.cpp(130,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  SmallAsteroid.cpp
+C:\Users\jber5\OneDrive\NBCC\Second Year courses\C++_SFML_NBCC\SpaceWars\SpaceWars\Asteroids.h(8,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Compiling...
+  SoundEffects.cpp
+  Source.cpp
+C:\Users\jber5\OneDrive\NBCC\Second Year courses\C++_SFML_NBCC\SpaceWars\SpaceWars\Asteroids.h(8,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  SpaceShip.cpp
+C:\Users\jber5\OneDrive\NBCC\Second Year courses\C++_SFML_NBCC\SpaceWars\SpaceWars\Asteroids.h(8,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\jber5\OneDrive\NBCC\Second Year courses\C++_SFML_NBCC\SpaceWars\SpaceWars\SpaceShip.cpp(42,45): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\jber5\OneDrive\NBCC\Second Year courses\C++_SFML_NBCC\SpaceWars\SpaceWars\SpaceShip.cpp(159,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jber5\OneDrive\NBCC\Second Year courses\C++_SFML_NBCC\SpaceWars\SpaceWars\SpaceShip.cpp(163,22): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\jber5\OneDrive\NBCC\Second Year courses\C++_SFML_NBCC\SpaceWars\SpaceWars\SpaceShip.cpp(231,44): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\jber5\OneDrive\NBCC\Second Year courses\C++_SFML_NBCC\SpaceWars\SpaceWars\SpaceShip.cpp(260,44): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\jber5\OneDrive\NBCC\Second Year courses\C++_SFML_NBCC\SpaceWars\SpaceWars\SpaceShip.cpp(338,39): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\jber5\OneDrive\NBCC\Second Year courses\C++_SFML_NBCC\SpaceWars\SpaceWars\SpaceShip.cpp(342,39): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\jber5\OneDrive\NBCC\Second Year courses\C++_SFML_NBCC\SpaceWars\SpaceWars\SpaceShip.cpp(346,39): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\jber5\OneDrive\NBCC\Second Year courses\C++_SFML_NBCC\SpaceWars\SpaceWars\SpaceShip.cpp(356,47): warning C4305: 'argument': truncation from 'double' to 'float'
+  TextureAssests.cpp
+  Utility.cpp
+C:\Users\jber5\OneDrive\NBCC\Second Year courses\C++_SFML_NBCC\SpaceWars\SpaceWars\Utility.cpp(11,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Generating code
+  Previous IPDB was built with incompatible compiler, fall back to full compilation.
+  All 2086 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  SpaceWars.vcxproj -> C:\Users\jber5\OneDrive\NBCC\Second Year courses\C++_SFML_NBCC\SpaceWars\Release\SpaceWars.exe
